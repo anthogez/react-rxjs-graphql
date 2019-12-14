@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Simple ReactJS App with RxJS & Apollo GraphQL
 
 In the project directory, you can run:
 
