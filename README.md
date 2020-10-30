@@ -1,4 +1,4 @@
-## Simple ReactJS App with RxJS & Apollo GraphQL
+## Simple React TS App with RxJS & Apollo GraphQL
 
 In the project directory, you can run:
 
